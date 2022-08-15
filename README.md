@@ -5,4 +5,3 @@ These are handwritten notes to improve my understanding on core Machine Learning
 Notes covers most of the sections in the textbook and will have additional details or examples to improve clarity on few topics. 
 
 If you happen to read the notes (thank you! 🤩) and have any feedback, please feel free to let me know. 
-
